@@ -1,0 +1,14 @@
+.blackBtn{
+    border: .18rem solid var(--mainDark);
+    padding: 2px 8px;
+    transition: var(--maintransition);
+  
+}
+.blackBtn:hover{
+    color: var(--mainWhite);
+    background-color: var(--mainDark);
+}
+.trashIcon{
+    color: var(--mainYellow);
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.nav{
+    background-color: var(--mainBlue) !important;
+}
+.navLink {
+    text-transform: capitalize;
+    font-size: 1.3rem ;
+    color: var(--mainWhite);
+}
+
+
+.button:hover{
+    background: var(--lightBlue);
+    color: var(--mainBlue);
+}
+.button:focus{
+    outline: none;
+}
